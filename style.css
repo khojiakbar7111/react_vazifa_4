@@ -1,0 +1,40 @@
+.rasm{
+    width: 100px;
+    border-radius: 10px;
+}
+.tre{
+    color: blue;
+    margin: 1px;
+}
+.tre2{
+    color: blue;
+    margin: 1px;
+}
+.continer{
+    display: flex;
+    margin: auto;
+    width: 600px;
+    background-color: white;
+    border-radius: 12px;
+    height: 250px;
+    margin-top: 200px;
+}
+body{
+    background-color: aqua;
+}
+.quyosh{
+  width: 140px;
+    text-align: center;
+    margin: auto;
+ 
+}
+.bulut{
+    text-align: center;
+    width: 140px;
+    margin: auto;
+    margin-left: 50px;
+}
+.h1{
+    color: white;
+    text-align: center;
+}
